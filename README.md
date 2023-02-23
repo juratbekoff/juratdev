@@ -14,3 +14,12 @@
 - MySQL
 - PostgreSQL
 - MongoDB
+
+## My favourite projects
+
+- https://github.com/juratbekoff/turonmedia (proccess...)
+- https://github.com/juratbekoff/chegirma.com 
+- https://github.com/juratbekoff/fastfood (proccess...)
+- https://github.com/juratbekoff/iScore_robot
+
+
